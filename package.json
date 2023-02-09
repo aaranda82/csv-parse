@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node parse_communities.js sgt/comnum.csv"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.12",
+    "csv-parse": "^4.16.0"
+  }
+}
